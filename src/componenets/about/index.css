@@ -1,0 +1,27 @@
+.about-body{
+    background-color: #000;
+    height: 100vh;
+    color: white;
+}
+.textyu{
+    padding-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+}
+.text5678{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+@media (max-width: 700px) {
+    .textyu{
+        padding-top: 30px;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 30px;
+    }
+    .text5678{
+        font-size: 20px;
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
